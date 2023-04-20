@@ -9,7 +9,7 @@ import * as dotenv from 'dotenv'
 
 dotenv.config()
 //Use Github to query cndi
-const question = "how to create kubernetes cluster?";
+const question = "Explain cndi-config.json using a code example?";
 //name of vector store.
 //Will create a folder named cndi_store.index locally
 //May take some time to create the store for the first time
